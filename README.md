@@ -4,4 +4,4 @@ AMVPDocs will host documents for public discussion related to the Automated Cryp
 
 ## Contact
 
-For more information about the project or this repository, reach out to Apostol Vassilev, apostol (dot) vassilev (at) nist (dot) gov. This project is maintained by the Security Testing Validation and Measurement Group within the Computer Security Division at NIST. 
+For more information about the project or this repository, reach out to Chris Celi, christopher (dot) celi (at) nist (dot) gov. This project is maintained by the Security Testing Validation and Measurement Group within the Computer Security Division at NIST. 
